@@ -1,16 +1,9 @@
 # projetflutterfirebase
 
-A new Flutter project.
+Bonjour,
 
-## Getting Started
+Le repository ci-dessus gère l'instanciation d'API permettant l'acquisition de données de jeux de steam. Le programme propose une liste des jeux les plus joués et également la possibilité de liker ou wishlist des jeux qui peuvent vous intéresser. 
 
-This project is a starting point for a Flutter application.
+L'application a été codé sur android studio, et sur émulateur android, malgrès l'utilisation au début du navigateur web à cause de difficultés technique (le stockage full et le pc ne tenait pas l'émulateur).
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Merci de votre retour et j'espère que vous apprecierez le travail fait sur ce projet.
